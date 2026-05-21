@@ -1,4 +1,4 @@
-# 📘 OCR-Based NCERT AI Doubt Solver
+# OCR-Based NCERT AI Doubt Solver
 
 An AI-powered educational assistant that solves NCERT textbook doubts using OCR, RAG, vector databases, and LLMs.
 
@@ -81,4 +81,4 @@ streamlit run app.py
 
 # Author
 
-Your Name
+Deeptimayee Behera
